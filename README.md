@@ -12,7 +12,9 @@ Keys graded based on difficulty
 <p align="center">
   <img src="Keys graded based on difficulty.png" width="600" title="Icon">
 </p>
+<hr>
 Difference with qwerty
+<br>
 <p align="center">
   <img src="Keys diff to qwerty.png" width="600" title="Icon">
 </p>
