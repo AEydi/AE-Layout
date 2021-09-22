@@ -1,6 +1,6 @@
 # AE keyboard Layout
 <p align="center">
-  <img src="keybord us - eydi.png" width="800" title="keyboard Layout">
+  <img src="keybord US - AE.png" width="800" title="keyboard Layout">
 </p>
 <hr>
 <p align="center">
